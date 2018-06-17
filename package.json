@@ -1,0 +1,22 @@
+{
+    "name": "light-delight",
+    "displayName": "light-delight",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "ets",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LightDelight",
+                "uiTheme": "vs",
+                "path": "./themes/LightDelight-color-theme.json"
+            }
+        ]
+    }
+}
