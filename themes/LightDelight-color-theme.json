@@ -67,7 +67,9 @@
 			"name": "Keywords",
 			"scope": [
 				"keyword",
-				"storage"
+				"storage",
+				"keyword.operator.logical.python",
+				"keyword.operator.new"
 			],
 			"settings": {
 				"foreground": "#13407c"
