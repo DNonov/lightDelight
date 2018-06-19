@@ -147,7 +147,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#224614"
+				"foreground": "#608b4e"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#224614"
+				"foreground": "#608b4e"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#224614"
+				"foreground": "#608b4e"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 				"keyword.other.unit.percentage.css"
 				],
 			"settings": {
-				"foreground": "#224614"
+				"foreground": "#608b4e"
 			}
 		},
 		{
