@@ -19,7 +19,6 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#448C27"
 			}
 		},
@@ -206,7 +205,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#227200"
 			}
 		},
 		{
@@ -225,7 +224,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#227200"
 			}
 		},
 		{
@@ -246,7 +245,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#a50000"
 			}
 		},
 		{
