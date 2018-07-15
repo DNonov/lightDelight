@@ -12,5 +12,4 @@ $ cp -R lightDelight ~/.vscode/extensions
 ```
 
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/js-example.png)
-![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/react-example.png)
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/css-example.png)
