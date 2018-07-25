@@ -19,7 +19,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#858585"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#448C27"
+				"foreground": "#858585"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#858585"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#363636"
+				"foreground": "#267f99"
 			}
 		},
 		{
@@ -169,7 +169,7 @@
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#AB6526"
 			}
 		},
 		{
@@ -234,7 +234,6 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#3165a8"
 			}
 		},
@@ -284,11 +283,11 @@
 		{
 			"name": "CSS: Property Units",
 			"scope": [
-				"keyword.other.unit.rem.css", 
-				"keyword.other.unit.vh.css", 
-				"keyword.other.unit.px.css", 
-				"keyword.other.unit.em.css", 
-				"keyword.other.unit.deg.css", 
+				"keyword.other.unit.rem.css",
+				"keyword.other.unit.vh.css",
+				"keyword.other.unit.px.css",
+				"keyword.other.unit.em.css",
+				"keyword.other.unit.deg.css",
 				"keyword.other.unit.percentage.css"
 				],
 			"settings": {
