@@ -2,8 +2,8 @@
 	"name": "LightDelight",
 	"type": "light",
 	"colors": {
-		"editor.background": "#eeeeee",
-		"editor.foreground": "#363636"
+		"editor.background": "#ffffff",
+		"editor.foreground": "#303030"
 	},
 	"tokenColors": [
 		{
@@ -71,7 +71,7 @@
 				"keyword.operator.new"
 			],
 			"settings": {
-				"foreground": "#13407c"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#13407c"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -92,7 +92,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#13407c"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#267f99"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#176d30"
 			}
 		},
 		{
@@ -230,7 +230,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#227200"
+				"foreground": "#176d30"
 			}
 		},
 		{
@@ -249,7 +249,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#227200"
+				"foreground": "#176d30"
 			}
 		},
 		{
@@ -259,7 +259,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"foreground": "#3165a8"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#13407c"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -316,7 +316,7 @@
 				"keyword.other.unit.percentage.css"
 				],
 			"settings": {
-				"foreground": "#608b4e"
+				"foreground": "#176d30"
 			}
 		},
 		{
@@ -435,7 +435,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -445,7 +445,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#176d30"
 			}
 		},
 		{
