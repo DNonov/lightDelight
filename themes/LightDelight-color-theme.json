@@ -40,7 +40,7 @@
 		"tab.border": "#0003",
 		//
 		"activityBar.foreground": "#222",
-		"editor.foreground": "#222",
+		"editor.foreground": "#000",
 		"editorLineNumber.activeForeground": "#000",
 		"sideBarTitle.foreground": "#555",
 		"statusBar.foreground": "#555",
@@ -253,7 +253,7 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#176d30"
+				"foreground": "#004d16"
 			}
 		},
 		{
@@ -310,7 +310,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#176d30"
+				"foreground": "#004d16"
 			}
 		},
 		{
@@ -329,7 +329,7 @@
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#176d30"
+				"foreground": "#004d16"
 			}
 		},
 		{
@@ -396,7 +396,7 @@
 				"keyword.other.unit.percentage.css"
 				],
 			"settings": {
-				"foreground": "#176d30"
+				"foreground": "#004d16"
 			}
 		},
 		{
@@ -525,7 +525,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#176d30"
+				"foreground": "#004d16"
 			}
 		},
 		{
