@@ -150,7 +150,7 @@
 				"keyword.operator.new"
 			],
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
@@ -160,7 +160,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
@@ -171,7 +171,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
@@ -199,7 +199,7 @@
 			"scope": [
 				"meta.return-type",
 				"support.class",
-        "entity.other.inherited-class",
+			  "entity.other.inherited-class",
 				"support.type",
 				"entity.name.type",
 				"entity.name.class",
@@ -339,7 +339,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
@@ -515,7 +515,7 @@
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#005faf"
+				"foreground": "#000080"
 			}
 		},
 		{
