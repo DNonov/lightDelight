@@ -191,7 +191,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#267f99"
+				"foreground": "#99007e"
 			}
 		},
 		{
@@ -228,7 +228,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#267f99"
+				"foreground": "#99007e"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"entity.other.attribute-name.html"
 			],
 			"settings": {
-				"foreground": "#000080"
+				"foreground": "#005faf"
 			}
 		},
 		{
