@@ -1,9 +1,19 @@
 {
-    "name": "light-delight",
-    "displayName": "light-delight",
-    "description": "",
+    "name": "lightDelight",
+    "displayName": "Light Delight",
+    "description": "A light VS Code inspired by Google's Chrome and Visual Studio",
     "version": "0.0.1",
-    "publisher": "ets",
+    "publisher": "dnonov",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/DNonov/lightDelight"
+    },
+    "keywords": [
+      "Theme",
+      "Light Theme",
+      "Visual Studio",
+      "Chrome"
+    ],
     "engines": {
         "vscode": "^1.24.0"
     },
@@ -13,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "LightDelight",
+                "label": "Light Delight",
                 "uiTheme": "vs",
                 "path": "./themes/LightDelight-color-theme.json"
             }

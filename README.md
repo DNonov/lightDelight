@@ -4,12 +4,15 @@
 
 Sadly it is not available at visual studio market yet!
 
-You can manualy install it, following this commands in your terminal:
+You can manually install it, following this commands in your terminal:
 
 ```bash
 $ git clone https://github.com/DNonov/lightDelight.git
 $ cp -R lightDelight ~/.vscode/extensions
 ```
 
-![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/js-example.png)
-![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/css-example.png)
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-js.png)
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-css.png)
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-html.png)
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-csharp.png)
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-py.png)
