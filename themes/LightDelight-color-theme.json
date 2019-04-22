@@ -188,10 +188,11 @@
 			"name": "Functions",
 			"scope": [
 				"entity.name.function",
+        "meta.function-call.generic.python",
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#99007e"
+				"foreground": "#005faf"
 			}
 		},
 		{
@@ -228,7 +229,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#99007e"
+				"foreground": "#850075"
 			}
 		},
 		{
@@ -246,11 +247,19 @@
 			}
 		},
 		{
+			"name": "Constants",
+			"scope": [
+				"constant"
+			],
+			"settings": {
+				"foreground": "#850075"
+			}
+		},
+		{
 			"name": "Numbers, Characters",
 			"scope": [
 				"constant.numeric",
-				"constant.character",
-				"constant"
+				"constant.character"
 			],
 			"settings": {
 				"foreground": "#004d16"
