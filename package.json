@@ -3,7 +3,7 @@
     "displayName": "Light Delight",
     "description": "A light VS Code inspired by Google's Chrome and Visual Studio",
     "version": "0.0.1",
-    "publisher": "dnonov",
+    "publisher": "DimitarNonov",
     "repository": {
       "type": "git",
       "url": "https://github.com/DNonov/lightDelight"
