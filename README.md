@@ -1,18 +1,18 @@
 # Light Delight
 
-## Light VS Code Theme
+Light VS Code theme inspired by Google's Chrome and Visual Studio.
 
-Sadly it is not available at visual studio market yet!
+[GitHub](https://github.com/DNonov/lightDelight)
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=DimitarNonov.lightDelight)
 
-You can manually install it, following this commands in your terminal:
+Icon theme used - [Webstorm Icon Theme](https://marketplace.visualstudio.com/items?itemName=pmsandhu.webstorm-icons).
 
-```bash
-$ git clone https://github.com/DNonov/lightDelight.git
-$ cp -R lightDelight ~/.vscode/extensions
-```
 
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-js.png)
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-css.png)
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-html.png)
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-csharp.png)
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-py.png)
+
+## License
+[MIT](./LICENSE)
