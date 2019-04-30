@@ -40,7 +40,7 @@
 		"tab.border": "#0003",
 		//
 		"activityBar.foreground": "#222",
-		"editor.foreground": "#363636",
+		"editor.foreground": "#222222",
 		"editorLineNumber.activeForeground": "#000",
 		"sideBarTitle.foreground": "#555",
 		"statusBar.foreground": "#555",
@@ -138,7 +138,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#363636"
+				"foreground": "#222222"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#363636"
+				"foreground": "#222222"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#363636"
+				"foreground": "#222222"
 			}
 		},
 		{
@@ -380,7 +380,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#363636"
+				"foreground": "#222222"
 			}
 		},
 		{
