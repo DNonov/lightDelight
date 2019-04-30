@@ -40,7 +40,7 @@
 		"tab.border": "#0003",
 		//
 		"activityBar.foreground": "#222",
-		"editor.foreground": "#000",
+		"editor.foreground": "#363636",
 		"editorLineNumber.activeForeground": "#000",
 		"sideBarTitle.foreground": "#555",
 		"statusBar.foreground": "#555",
