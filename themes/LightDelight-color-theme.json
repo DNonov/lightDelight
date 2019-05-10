@@ -7,21 +7,8 @@
     "list.activeSelectionForeground": "#fff",
     "list.inactiveSelectionForeground": "#fff",
     "tab.activeBackground": "#fff",
-    //Select
-    "activityBarBadge.background": "#37d",
-    "list.activeSelectionBackground": "#37d",
-    "activityBar.dropBackground": "#37d7",
-    "editorGroup.dropBackground": "#37d7",
-    "list.dropBackground": "#37d7",
-    "list.inactiveSelectionBackground": "#37d7",
-    "panel.dropBackground": "#37d7",
-    "sideBar.dropBackground": "#37d7",
-    //Hidden
-    "scrollbar.shadow": "#0000",
-    "sideBarSectionHeader.background": "#0000",
-    "editor.lineHighlightBorder": "#0000",
-    "tab.activeBorder": "#0000",
-    //Borders
+
+    // Borders
     "contrastBorder": "#0003",
     "editor.inactiveSelectionBackground": "#0003",
     "activityBar.border": "#0003",
@@ -56,7 +43,7 @@
     "editorGroupHeader.tabsBackground": "#eee",
     "editorSuggestWidget.background": "#eee",
     "editorWidget.background": "#eee",
-    "panel.background": "#eee",
+    "panel.background": "#fff",
     "peekViewEditor.background": "#eee",
     "sideBar.background": "#eee",
     "tab.inactiveBackground": "#eee",
