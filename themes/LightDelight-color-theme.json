@@ -77,12 +77,14 @@
     //Terminal
     "terminal.ansiBlack": "#000",
     "terminal.foreground": "#222",
-    "terminal.ansiRed": "#c54832",
-    "terminal.ansiYellow": "#ad6c22",
-    "terminal.ansiGreen": "#538020",
-    "terminal.ansiBlue": "#4029b3",
-    "terminal.ansiCyan": "#006d8b",
-    "terminal.ansiMagenta": "#942d72"
+    "terminal.background": "#fff",
+    "terminal.ansiRed": "#a50000",
+    "terminal.ansiYellow": "#e6a101",
+    "terminal.ansiBrightYellow": "#e6a101",
+    "terminal.ansiGreen": "#005a1a",
+    "terminal.ansiBlue": "#000080",
+    "terminal.ansiCyan": "#005faf",
+    "terminal.ansiMagenta": "#850075"
   },
   "tokenColors": [
     {
