@@ -256,7 +256,11 @@
     },
     {
       "name": "Strings",
-      "scope": "string",
+      "scope": [
+        "string",
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end",
+      ],
       "settings": {
         "foreground": "#a50000"
       }
