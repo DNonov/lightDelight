@@ -56,7 +56,7 @@
     "input.placeholderForeground": "#aaa",
     //
     "editor.selectionHighlightBackground": "#ea13",
-    "editorGutter.addedBackground": "#004d16",
+    "editorGutter.addedBackground": "#007c23",
     "editorGutter.deletedBackground": "#a50000",
     "editorGutter.modifiedBackground": "#ea1",
     "statusBar.debuggingBackground": "#ea1",
