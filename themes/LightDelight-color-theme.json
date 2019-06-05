@@ -66,10 +66,13 @@
     "terminal.foreground": "#222",
     "terminal.background": "#fff",
     "terminal.ansiRed": "#a50000",
+    "terminal.ansiBrightRed": "#a50000",
     "terminal.ansiYellow": "#e6a101",
     "terminal.ansiBrightYellow": "#e6a101",
     "terminal.ansiGreen": "#005a1a",
+    "terminal.ansiBrightGreen": "#005a1a",
     "terminal.ansiBlue": "#000080",
+    "terminal.ansiBrightBlue": "#000080",
     "terminal.ansiCyan": "#005faf",
     "terminal.ansiMagenta": "#850075"
   },
