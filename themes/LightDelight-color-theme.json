@@ -267,6 +267,8 @@
         "string",
         "punctuation.definition.string.begin",
         "punctuation.definition.string.end",
+        "punctuation.definition.string.template.begin",
+        "punctuation.definition.string.template.end",
       ],
       "settings": {
         "foreground": "#a50000"
