@@ -572,6 +572,16 @@
         "background": "#DDFFDD",
         "foreground": "#434343"
       }
+    },
+    {
+      "name": "JSDoc: definition block tag",
+      "scope": [
+        "punctuation.definition.block.tag.jsdoc",
+        "punctuation.definition.inline.tag.jsdoc"
+      ],
+      "settings": {
+        "foreground": "#000080"
+      }
     }
   ]
 }
