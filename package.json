@@ -2,7 +2,7 @@
 	"name": "lightDelight",
 	"displayName": "Light Delight",
 	"description": "Light VS Code theme inspired by Google's Chrome and Visual Studio",
-	"version": "1.4.0",
+	"version": "1.5.0",
 	"publisher": "DimitarNonov",
 	"repository": {
 		"type": "git",
@@ -20,6 +20,7 @@
 	"categories": [
 		"Themes"
 	],
+  "icon": "media/icon.png",
 	"contributes": {
 		"themes": [
 			{
