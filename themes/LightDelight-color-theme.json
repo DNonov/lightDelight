@@ -69,8 +69,8 @@
     "terminal.ansiBrightRed": "#a50000",
     "terminal.ansiYellow": "#e6a101",
     "terminal.ansiBrightYellow": "#e6a101",
-    "terminal.ansiGreen": "#005a1a",
-    "terminal.ansiBrightGreen": "#005a1a",
+    "terminal.ansiGreen": "#006b1e",
+    "terminal.ansiBrightGreen": "#006b1e",
     "terminal.ansiBlue": "#000080",
     "terminal.ansiBrightBlue": "#000080",
     "terminal.ansiCyan": "#005faf",
@@ -258,7 +258,7 @@
         "constant.character"
       ],
       "settings": {
-        "foreground": "#004d16"
+        "foreground": "#006b1e"
       }
     },
     {
@@ -321,7 +321,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#004d16"
+        "foreground": "#006b1e"
       }
     },
     {
@@ -340,7 +340,7 @@
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#004d16"
+        "foreground": "#006b1e"
       }
     },
     {
@@ -407,7 +407,7 @@
         "keyword.other.unit.percentage.css"
         ],
       "settings": {
-        "foreground": "#004d16"
+        "foreground": "#006b1e"
       }
     },
     {
@@ -536,7 +536,7 @@
         "markup.italic"
       ],
       "settings": {
-        "foreground": "#004d16"
+        "foreground": "#006b1e"
       }
     },
     {
