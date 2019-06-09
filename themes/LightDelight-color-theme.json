@@ -418,6 +418,13 @@
       }
     },
     {
+      "name": "CSS: Hash Value",
+      "scope": "constant.other.color.rgb-value.hex",
+      "settings": {
+        "foreground": "#006b1e"
+      }
+    },
+    {
       "name": "JavaScript: String Template Literals Punctuation",
       "scope": "source.js string.template punctuation.definition.template-expression",
       "settings": {
