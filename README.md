@@ -1,4 +1,4 @@
-# Light Delight
+![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/icon-readme.png)
 
  [![GitHub package version](https://img.shields.io/github/package-json/v/DNonov/lightDelight.svg)](./package.json) [![last-commit](https://img.shields.io/github/last-commit/DNonov/lightDelight.svg)](./package.json) [![license](https://img.shields.io/github/license/DNonov/lightDelight.svg)](./LICENSE) [![downloads](https://img.shields.io/visual-studio-marketplace/d/DimitarNonov.lightDelight.svg)](https://marketplace.visualstudio.com/items?itemName=DimitarNonov.lightDelight)
 
