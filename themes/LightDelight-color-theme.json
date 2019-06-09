@@ -130,7 +130,7 @@
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#222222"
+        "foreground": "#000080"
       }
     },
     {
