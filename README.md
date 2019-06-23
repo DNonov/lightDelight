@@ -16,8 +16,6 @@ Light VS Code theme inspired by Google's Chrome and Visual Studio.
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-css.png)
 ### HTML
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-html.png)
-### CSharp
-![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-csharp.png)
 ### Python
 ![](https://raw.githubusercontent.com/DNonov/lightDelight/master/media/LightDelight-py.png)
 
