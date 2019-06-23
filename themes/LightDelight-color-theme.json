@@ -62,19 +62,24 @@
     "statusBar.debuggingBackground": "#ea1",
     "statusBar.debuggingForeground": "#642",
     //Terminal
-    "terminal.ansiBlack": "#000",
     "terminal.foreground": "#222",
     "terminal.background": "#fff",
+    "terminal.ansiBlack": "#222",
+		"terminal.ansiBrightBlack": "#525252",
+		"terminal.ansiWhite": "#525252",
+		"terminal.ansiBrightWhite": "#525252",
     "terminal.ansiRed": "#a50000",
     "terminal.ansiBrightRed": "#a50000",
-    "terminal.ansiYellow": "#e6a101",
-    "terminal.ansiBrightYellow": "#e6a101",
+    "terminal.ansiYellow": "#cd9731",
+    "terminal.ansiBrightYellow": "#cd9731",
     "terminal.ansiGreen": "#006b1e",
     "terminal.ansiBrightGreen": "#006b1e",
     "terminal.ansiBlue": "#000080",
     "terminal.ansiBrightBlue": "#000080",
     "terminal.ansiCyan": "#005faf",
-    "terminal.ansiMagenta": "#850075"
+		"terminal.ansiBrightCyan": "#005faf",
+    "terminal.ansiMagenta": "#850075",
+		"terminal.ansiBrightMagenta": "#850075",
   },
   "tokenColors": [
     {
