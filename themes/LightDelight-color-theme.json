@@ -4,8 +4,6 @@
   "colors": {
     //White
     "editor.background": "#fff",
-    "list.activeSelectionForeground": "#fff",
-    "list.inactiveSelectionForeground": "#fff",
     "tab.activeBackground": "#fff",
 
     // Borders
@@ -62,6 +60,14 @@
     "editorGutter.modifiedBackground": "#005faf",
     "statusBar.debuggingBackground": "#ea1",
     "statusBar.debuggingForeground": "#642",
+    // List
+    "list.activeSelectionBackground": "#dddddd",
+    "list.focusBackground": "#dddddd",
+    "list.highlightForeground": "#005faf",
+    "list.inactiveSelectionBackground": "#dddddd",
+    "list.invalidItemForeground": "#b89500",
+    "list.activeSelectionForeground": "#222",
+    "list.inactiveSelectionForeground": "#222",
     //Terminal
     "terminal.foreground": "#222",
     "terminal.background": "#fff",
