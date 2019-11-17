@@ -86,7 +86,33 @@
     "terminal.ansiCyan": "#005faf",
 		"terminal.ansiBrightCyan": "#005faf",
     "terminal.ansiMagenta": "#850075",
-		"terminal.ansiBrightMagenta": "#850075",
+    "terminal.ansiBrightMagenta": "#850075",
+    // VS Code interface icons' colors
+    "symbolIcon.methodForeground": "#005faf",
+    "symbolIcon.functionForeground": "#005faf",
+    "symbolIcon.constructorForeground": "#005faf",
+    "symbolIcon.variableForeground": "#000080",
+    "symbolIcon.fieldForeground": "#000080",
+    "symbolIcon.referenceForeground": "#000080",
+    "symbolIcon.enumeratorForeground": "#000080",
+    "symbolIcon.enumeratorMemberForeground": "#000080",
+    "symbolIcon.classForeground":  "#850075",
+    "symbolIcon.interfaceForeground": "#850075",
+    "symbolIcon.moduleForeground": "#850075",
+    "symbolIcon.namespaceForeground": "#850075",
+    "symbolIcon.keywordForeground": "#222",
+    "symbolIcon.unitForeground": "#222",
+    "symbolIcon.snippetForeground": "#222",
+    // Notifications and problems panel icons
+    "problemsErrorIcon.foreground": "#ff0000",
+    "problemsWarningIcon.foreground": "#cd9731",
+    "problemsInfoIcon.foreground": "#005faf",
+    "notificationsErrorIcon.foreground": "#ff0000",
+    "notificationsInfoIcon.foreground": "#cd9731",
+    "notificationsWarningIcon.foreground": "#005faf",
+    // Light bulb
+    "editorLightBulb.foreground": "#cd9731",
+    "editorLightBulbAutoFix.foreground": "#cd9731"
   },
   "tokenColors": [
     {
