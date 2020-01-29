@@ -323,7 +323,7 @@
       ],
       "settings": {
         "foreground": "#a50000"
-      }
+      },
       "name": "Strings: Escape Sequences",
       "scope": "constant.character.escape",
       "settings": {
