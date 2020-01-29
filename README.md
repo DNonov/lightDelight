@@ -25,7 +25,7 @@ Light VS Code theme inspired by Google's Chrome and Visual Studio.
 | Background      | ![#ffffff](https://placehold.it/15/ffffff/ffffff?text=+) `#ffffff` |
 | Comment         | ![#858585](https://placehold.it/15/858585/000000?text=+) `#858585` |
 | Foreground      | ![#222222](https://placehold.it/15/222222/000000?text=+) `#222222` |
-| Function        | ![#005faf](https://placehold.it/15/005faf/000000?text=+) `#005faf` |
+| Function        | ![#00437a](https://placehold.it/15/00437a/000000?text=+) `#00437a` |
 | Variable        | ![#222222](https://placehold.it/15/222222/000000?text=+) `#222222` |
 | Number          | ![#006b1e](https://placehold.it/15/006b1e/000000?text=+) `#006b1e` |
 | String          | ![#a50000](https://placehold.it/15/a50000/000000?text=+) `#a50000` |
