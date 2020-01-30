@@ -32,6 +32,3 @@ Light VS Code theme inspired by Google's Chrome and Visual Studio.
 | Keyword         | ![#000080](https://placehold.it/15/000080/000000?text=+) `#000080` |
 | Class/Tag       | ![#850075](https://placehold.it/15/850075/000000?text=+) `#850075` |
 | Operator        | ![#000080](https://placehold.it/15/000080/000000?text=+) `#000080` |
-
-## Credits
-Icon theme used  -  [Webstorm Icon Theme](https://marketplace.visualstudio.com/items?itemName=pmsandhu.webstorm-icons).
