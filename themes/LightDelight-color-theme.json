@@ -110,6 +110,10 @@
     "notificationsErrorIcon.foreground": "#ff0000",
     "notificationsInfoIcon.foreground": "#cd9731",
     "notificationsWarningIcon.foreground": "#00437a",
+    // Editor's squiggly underline
+    "editorError.foreground": "#ff0000",
+    "editorWarning.foreground": "#cd9731",
+    "editorInfo.foreground": "#00437a",
     // Light bulb
     "editorLightBulb.foreground": "#cd9731",
     "editorLightBulbAutoFix.foreground": "#cd9731"
