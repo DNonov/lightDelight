@@ -54,7 +54,7 @@
     "input.placeholderForeground": "#aaa",
     //
     "editor.selectionHighlightBackground": "#ea13",
-		"editor.selectionBackground": "#dddddd",
+		"editor.selectionBackground": "#e5e5e5",
     "editorGutter.addedBackground": "#007c23",
     "editorGutter.deletedBackground": "#a50000",
     "editorGutter.modifiedBackground": "#005faf",
