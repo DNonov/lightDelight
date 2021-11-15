@@ -14,7 +14,7 @@
     "editorGroupHeader.tabsBorder": "#0003",
     "editorIndentGuide.activeBackground": "#0006",
     "editorIndentGuide.background": "#0002",
-    "list.hoverBackground": "#0003",
+    "list.hoverBackground": "#0001",
     "notificationToast.border": "#0003",
     "scrollbarSlider.background": "#0003",
     "sideBar.border": "#0003",
@@ -23,6 +23,8 @@
     "widget.shadow": "#0003",
     "editorWidget.border": "#0003",
     "tab.border": "#0003",
+    // Focus line
+    "quickInputList.focusBackground": "#0002",
     //
     "activityBar.foreground": "#222",
     "editor.foreground": "#222222",
