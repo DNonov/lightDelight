@@ -23,9 +23,10 @@
     "widget.shadow": "#0003",
     "editorWidget.border": "#0003",
     "tab.border": "#0003",
+
     // Focus line
     "quickInputList.focusBackground": "#0002",
-    //
+
     "activityBar.foreground": "#222",
     "editor.foreground": "#222222",
     "editorLineNumber.activeForeground": "#000",
@@ -33,7 +34,7 @@
     "statusBar.foreground": "#555",
     "tab.activeForeground": "#333",
     "titleBar.activeForeground": "#333",
-    //
+    
     "editorGroupHeader.noTabsBackground": "#f9f9f9",
     "editorGutter.background": "#f9f9f9",
     "statusBar.background": "#f9f9f9",
@@ -54,9 +55,9 @@
     "badge.background": "#aaa",
     "editorLineNumber.foreground": "#aaa",
     "input.placeholderForeground": "#aaa",
-    //
+    
     "editor.selectionHighlightBackground": "#ea13",
-		"editor.selectionBackground": "#e5e5e5",
+    "editor.selectionBackground": "#e5e5e5",
     "editorGutter.addedBackground": "#007c23",
     "editorGutter.deletedBackground": "#a50000",
     "editorGutter.modifiedBackground": "#005faf",
@@ -74,9 +75,9 @@
     "terminal.foreground": "#222",
     "terminal.background": "#fff",
     "terminal.ansiBlack": "#222",
-		"terminal.ansiBrightBlack": "#525252",
-		"terminal.ansiWhite": "#525252",
-		"terminal.ansiBrightWhite": "#525252",
+    "terminal.ansiBrightBlack": "#525252",
+    "terminal.ansiWhite": "#525252",
+    "terminal.ansiBrightWhite": "#525252",
     "terminal.ansiRed": "#a50000",
     "terminal.ansiBrightRed": "#a50000",
     "terminal.ansiYellow": "#cd9731",
@@ -86,7 +87,7 @@
     "terminal.ansiBlue": "#000080",
     "terminal.ansiBrightBlue": "#000080",
     "terminal.ansiCyan": "#00437a",
-		"terminal.ansiBrightCyan": "#00437a",
+    "terminal.ansiBrightCyan": "#00437a",
     "terminal.ansiMagenta": "#850075",
     "terminal.ansiBrightMagenta": "#850075",
     // VS Code interface icons' colors
@@ -463,7 +464,7 @@
         "keyword.other.unit.em.css",
         "keyword.other.unit.deg.css",
         "keyword.other.unit.percentage.css"
-        ],
+      ],
       "settings": {
         "foreground": "#006b1e"
       }
@@ -489,14 +490,14 @@
         "foreground": "#00437a"
       }
     },
-     {
+    {
       "name": "Directive punctuation c/c++",
       "scope": [
         "punctuation.definition.directive.c",
         "punctuation.definition.directive.cpp",
       ],
       "settings": {
-      "foreground": "#000080"
+        "foreground": "#000080"
       }
     },
     {
@@ -623,6 +624,13 @@
       }
     },
     {
+      "name": "Extra: Diff Header",
+      "scope": "meta.diff.header.git",
+      "settings": {
+        "foreground": "#000080",
+      }
+    },
+    {
       "name": "Extra: Diff Range",
       "scope": [
         "meta.diff.range",
@@ -648,6 +656,26 @@
       "settings": {
         "background": "#DDFFDD",
         "foreground": "#434343"
+      }
+    },
+    {
+      "name": "Extra: Diff Deleted",
+      "scope": [
+        "punctuation.definition.deleted",
+        "markup.deleted.diff"
+      ],
+      "settings": {
+        "foreground": "#AA3731"
+      }
+    },
+    {
+      "name": "Extra: Diff Inserted",
+      "scope": [
+        "punctuation.definition.inserted",
+        "markup.inserted.diff"
+      ],
+      "settings": {
+        "foreground": "#006b1e"
       }
     },
     {
