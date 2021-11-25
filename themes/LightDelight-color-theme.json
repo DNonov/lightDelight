@@ -54,7 +54,7 @@
     "input.placeholderForeground": "#aaa",
     
     "editor.selectionHighlightBackground": "#ea13",
-		"editor.selectionBackground": "#e5e5e5",
+    "editor.selectionBackground": "#e5e5e5",
     "editorGutter.addedBackground": "#007c23",
     "editorGutter.deletedBackground": "#a50000",
     "editorGutter.modifiedBackground": "#005faf",
@@ -72,9 +72,9 @@
     "terminal.foreground": "#222",
     "terminal.background": "#fff",
     "terminal.ansiBlack": "#222",
-		"terminal.ansiBrightBlack": "#525252",
-		"terminal.ansiWhite": "#525252",
-		"terminal.ansiBrightWhite": "#525252",
+    "terminal.ansiBrightBlack": "#525252",
+    "terminal.ansiWhite": "#525252",
+    "terminal.ansiBrightWhite": "#525252",
     "terminal.ansiRed": "#a50000",
     "terminal.ansiBrightRed": "#a50000",
     "terminal.ansiYellow": "#cd9731",
@@ -84,7 +84,7 @@
     "terminal.ansiBlue": "#000080",
     "terminal.ansiBrightBlue": "#000080",
     "terminal.ansiCyan": "#00437a",
-		"terminal.ansiBrightCyan": "#00437a",
+    "terminal.ansiBrightCyan": "#00437a",
     "terminal.ansiMagenta": "#850075",
     "terminal.ansiBrightMagenta": "#850075",
     // VS Code interface icons' colors
@@ -461,7 +461,7 @@
         "keyword.other.unit.em.css",
         "keyword.other.unit.deg.css",
         "keyword.other.unit.percentage.css"
-        ],
+      ],
       "settings": {
         "foreground": "#006b1e"
       }
@@ -487,14 +487,14 @@
         "foreground": "#00437a"
       }
     },
-     {
+    {
       "name": "Directive punctuation c/c++",
       "scope": [
         "punctuation.definition.directive.c",
         "punctuation.definition.directive.cpp",
       ],
       "settings": {
-      "foreground": "#000080"
+        "foreground": "#000080"
       }
     },
     {
@@ -621,6 +621,13 @@
       }
     },
     {
+      "name": "Extra: Diff Header",
+      "scope": "meta.diff.header.git",
+      "settings": {
+        "foreground": "#000080",
+      }
+    },
+    {
       "name": "Extra: Diff Range",
       "scope": [
         "meta.diff.range",
@@ -646,6 +653,26 @@
       "settings": {
         "background": "#DDFFDD",
         "foreground": "#434343"
+      }
+    },
+    {
+      "name": "Extra: Diff Deleted",
+      "scope": [
+        "punctuation.definition.deleted",
+        "markup.deleted.diff"
+      ],
+      "settings": {
+        "foreground": "#AA3731"
+      }
+    },
+    {
+      "name": "Extra: Diff Inserted",
+      "scope": [
+        "punctuation.definition.inserted",
+        "markup.inserted.diff"
+      ],
+      "settings": {
+        "foreground": "#006b1e"
       }
     },
     {
