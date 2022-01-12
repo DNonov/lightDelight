@@ -34,7 +34,7 @@
     "statusBar.foreground": "#555",
     "tab.activeForeground": "#333",
     "titleBar.activeForeground": "#333",
-    
+
     "editorGroupHeader.noTabsBackground": "#f9f9f9",
     "editorGutter.background": "#f9f9f9",
     "statusBar.background": "#f9f9f9",
@@ -55,7 +55,7 @@
     "badge.background": "#aaa",
     "editorLineNumber.foreground": "#aaa",
     "input.placeholderForeground": "#aaa",
-    
+
     "editor.selectionHighlightBackground": "#ea13",
     "editor.selectionBackground": "#e5e5e5",
     "editorGutter.addedBackground": "#007c23",
@@ -135,6 +135,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#858585"
       }
     },
@@ -142,7 +143,7 @@
       "name": "Comments: Preprocessor",
       "scope": "comment.block.preprocessor",
       "settings": {
-        "fontStyle": "",
+        "fontStyle": "italic",
         "foreground": "#858585"
       }
     },
@@ -153,6 +154,7 @@
         "comment.block.documentation"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#858585"
       }
     },
