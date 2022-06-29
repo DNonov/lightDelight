@@ -398,7 +398,10 @@
     },
     {
       "name": "HTML: Tag Names",
-      "scope": "entity.name.tag",
+      "scope": [
+        "entity.name.tag",
+        "support.class.component.js"
+      ],
       "settings": {
         "foreground": "#006b1e"
       }
